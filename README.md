@@ -11,6 +11,7 @@ This project was completed using the Python programming language within VS Code.
 Contents of this repository include:
 
 README.md: a file containing all information about the files within the repository
+
 FILES WE'LL HAVE IN HERE
 
 ## Reproducing Results

@@ -1,5 +1,5 @@
 # R&B Song Chord Generator
-This project aims to produce a generator that can synthesize R&B song snippets based on chords used in R&B songs present within the Chordonomicon dataset. 
+This project aims to produce a generator that can synthesize R&B song snippets based on chords used in R&B songs present within the Chordonomicon dataset for the purposes of a project for the DS 5030 class within the UVA MSDS program in the Fall 2025 semester.
 
 ## Contents
 This repository contains instructions on obtaining and cleaning the data used, code that completes and outputs the result of the song generator, an outline of the methodology used within this project, and reference information.

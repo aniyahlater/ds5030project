@@ -16,7 +16,7 @@ Contents of this repository include:
 
 - *DS5030 Project Final Outline:* a PDF file outlining the methodology and thought process behind this project
 
-- *get_data.ipynb:* a Jupyter notebook containing the code utilized for this project
+- *rnb_generator.ipynb:* a Jupyter notebook containing the code utilized for this project
 
 ## Reproducing Results
 The data can be obtained from the following line in the Jupyter Notebook:

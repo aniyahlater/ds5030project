@@ -14,7 +14,7 @@ Contents of this repository include:
 
 - *.gitignore:* a file detailing what files within the repository should be ignored by Git (it is empty in this case)
 
-- *DS5030 Project Final Outline:* a PDF file outlining the methodology and thought process behind this project
+- *DS5030 Project Final Outline.pdf:* a PDF file outlining the methodology and thought process behind this project
 
 - *rnb_generator.ipynb:* a Jupyter notebook containing the code utilized for this project
 

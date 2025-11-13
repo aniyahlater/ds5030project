@@ -10,13 +10,13 @@ This project was completed using the Python programming language within VS Code.
 ## Documentation
 Contents of this repository include:
 
-- README.md: a file containing all information about the files within the repository
+- *README.md:* a file containing all information about the files within the repository
 
-- .gitignore: a file detailing what files within the repository should be ignored by Git (it is empty in this case)
+- *.gitignore:* a file detailing what files within the repository should be ignored by Git (it is empty in this case)
 
-- DS5030 Project Final Outline: a PDF file outlining the methodology and thought process behind this project
+- *DS5030 Project Final Outline:* a PDF file outlining the methodology and thought process behind this project
 
-- get_data.ipynb : a Jupyter notebook containing the code utilized for this project
+- *get_data.ipynb:* a Jupyter notebook containing the code utilized for this project
 
 ## Reproducing Results
 The data can be obtained from the following line in the Jupyter Notebook:

@@ -16,9 +16,11 @@ Contents of this repository include:
 
 - *DS5030 Project Final Outline.pdf:* a PDF file outlining the methodology and thought process behind this project
 
-- *rnb_generator.ipynb:* a Jupyter notebook containing the code utilized for this project
+- *rnb_generator.ipynb:* a Jupyter notebook containing the code utilized for the project
 
 - *music.mid:* a sample output of generated R&B chords
+
+- *RnB Song Generator.pdf:* a pdf slide deck summarizing the project
 
 ## Reproducing Results
 The data can be obtained from the following line in the Jupyter Notebook:

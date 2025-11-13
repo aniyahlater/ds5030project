@@ -10,9 +10,9 @@ This project was completed using the Python programming language within VS Code.
 ## Documentation
 Contents of this repository include:
 
-README.md: a file containing all information about the files within the repository
+- README.md: a file containing all information about the files within the repository
 
-.gitignore: a file detailing what files within the repository should be ignored by Git (it is empty in this case)
+- .gitignore: a file detailing what files within the repository should be ignored by Git (it is empty in this case)
 
 FILES WE'LL HAVE IN HERE
 

@@ -18,6 +18,8 @@ Contents of this repository include:
 
 - *rnb_generator.ipynb:* a Jupyter notebook containing the code utilized for this project
 
+- *music.mid:* a sample output of generated R&B chords
+
 ## Reproducing Results
 The data can be obtained from the following line in the Jupyter Notebook:
 
